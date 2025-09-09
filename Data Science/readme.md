@@ -1,4 +1,4 @@
-## Roadmap para Cientista de Dados (2025)
+## Roadmap para Cientista de Dados
 
 ### Nível 1: Fundamentos Essenciais
 
