@@ -3,7 +3,7 @@
 
 ## Arquiteturas de Modelos de Linguagem
 
-A tabela que você compartilhou resume o uso típico (histórico) das três principais arquiteturas de modelos baseados em **Transformers** (a base da maioria dos modelos de linguagem modernos, como BERT, GPT e T5) para diferentes tarefas de Processamento de Linguagem Natural (PLN):
+A tabela acima resume o uso típico (histórico) das três principais arquiteturas de modelos baseados em **Transformers** (a base da maioria dos modelos de linguagem modernos, como BERT, GPT e T5) para diferentes tarefas de Processamento de Linguagem Natural (PLN):
 
 1.  **Encoder (Codificador):**
 2.  **Decoder (Decodificador):**
