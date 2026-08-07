@@ -5,6 +5,8 @@
 - git clone 
 - git branch -a
 - git checkout -b develop
-- git branch --set-upstream-to=origin/setup develop
+- git branch --set-upstream-to=origin/YOUR_BRANCH develop
 - git branch -a
 - git pull
+
+This is just an example.
